@@ -839,7 +839,6 @@ function NebulUI:CreateWindow(options)
                 Font             = theme.FontBold,
                 TextSize         = 11,
                 TextXAlignment   = Enum.TextXAlignment.Left,
-                LetterSpacingOffset = 1,
                 Parent           = secHeader,
             })
 
